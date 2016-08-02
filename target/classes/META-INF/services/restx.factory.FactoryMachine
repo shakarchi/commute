@@ -1,0 +1,5 @@
+hellomongo.AppModuleFactoryMachine
+hellomongo.rest.CityResourceFactoryMachine
+hellomongo.rest.CityResourceRouterFactoryMachine
+hellomongo.rest.MessageResourceFactoryMachine
+hellomongo.rest.MessageResourceRouterFactoryMachine
